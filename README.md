@@ -2,6 +2,7 @@
 Graphic adventure game made in Flash to the youtuber "Duke apology of the obvious".
 
 ## How it was made? For who is interested in creating games.
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 The game planning started on 04/09/2012 and was delivered on 10/17/2012. In total 44 days of work.
 My times are a little complicated ... I work 8hs from Monday to Friday, Thursday and Saturday, rehearsal with my band, when I can study, and last weekend I went to a camp. I had very little time and I was going to take care of everything, planning, design, programming and music.
