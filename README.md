@@ -2,7 +2,6 @@
 Graphic adventure game made in Flash to the youtuber "Duke apology of the obvious".
 
 ## How it was made? For who is interested in creating games.
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 The game planning started on 04/09/2012 and was delivered on 10/17/2012. In total 44 days of work.
 My times are a little complicated ... I work 8hs from Monday to Friday, Thursday and Saturday, rehearsal with my band, when I can study, and last weekend I went to a camp. I had very little time and I was going to take care of everything, planning, design, programming and music.
@@ -11,6 +10,8 @@ I think that this shows that with a good organization you can work very efficien
 ## Planning:
 Since I was very young I played Aventuras Gráficas, I was a fan of Monkey Island, Day of Tentacle, Loom, Full Trhottle, etc ... And ever since I learned to program I always wanted to make one.
 My first attempt was "An Adventure of Ruock", it was about a boy who wanted to put together a ruock band to win the battle of bands that was done in school and thus conquer the girl. First you had to form the band. I had fun puzzles of virtual reality, hypnotism, voodoo, etc. I abandoned this project at approximately 50%, it was very long (2 years) and complicated, and there was no one to press me to finish it.
+
+![alt text](https://github.com/lucasmoyano/Apology-of-Time/blob/master/assets/una%20aventura%20de%20ruock.jpg?raw=true)
 
 This is a test of the game made in HTML5:
 http://lucasmoyano.com/archivos/laboratorio/html5/
