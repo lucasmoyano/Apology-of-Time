@@ -1,0 +1,74 @@
+<html> 
+<head>
+<title>Duke: Apologia del Tiempo</title>
+<style type="text/css">
+body
+{
+	background-color: #000;
+	border: 0px;
+	margin: 0px;
+	background-image: url('background.jpg');
+}
+
+#game
+{
+	padding-left: 77px;
+	padding-top: 89px;
+	background-image: url('pc.png');
+	position: absolute;
+	width: 1273px;
+
+	height: 661;
+
+	margin-left: 15px;
+}
+
+#link
+{
+	margin-top: 33px;
+	margin-left: 250px;
+	width: 300px;
+	height: 35px;
+}
+</style>
+
+<script type="text/javascript">
+function clickLink()
+{
+	var newWindow = window.open('http://historiasdeduke.com/', '_blank');
+	newWindow.focus();
+	return false;
+}
+</script>
+</head>
+<body> 
+<div id="game">
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" 
+
+codebase="http://download.macromedia.com/pub/shockwave/
+cabs/flash/swflash.cab#version=6,0,40,0" 
+ 
+width="720" height="480" 
+ id="mymoviename"> 
+
+<param name="movie"  
+value="preload.swf" /> 
+<param name="quality" value="high" /> 
+<param name="bgcolor" value="#000000" /> 
+<embed src="preload.swf" quality="high" bgcolor="#000000"
+width="720" height="480" 
+name="mymoviename" align="" type="application/x-shockwave-flash" 
+pluginspage="http://www.macromedia.com/go/getflashplayer"> 
+
+<div id="link" onclick="clickLink()">
+
+</div>
+
+</div>
+</embed> 
+
+</object> 
+
+</body>
+
+</html> 
